@@ -1,5 +1,7 @@
 # HackerRank
-My solution to HackerRank.
+My solutions to HackerRank.
+
+You can see my profile here: [https://www.hackerrank.com/AminadavG](https://www.hackerrank.com/AminadavG).
 
 All solution here created by me. I have tried to be most optimal solution. All of them are less than O(n^2).
 Most of them are O(n) o(log n) or even O(1).
