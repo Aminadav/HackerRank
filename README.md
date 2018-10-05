@@ -1,8 +1,8 @@
 # HackerRank
 My solution to HackerRank.
 
-All solution here created by me. I have tried to be write most optimal solution. All of them are less than O(n^2).
-Most of them are O(n) o(log n) or O(1).
+All solution here created by me. I have tried to be most optimal solution. All of them are less than O(n^2).
+Most of them are O(n) o(log n) or even O(1).
 
 ## Algorithm
 
@@ -16,4 +16,4 @@ Most of them are O(n) o(log n) or O(1).
 
 #### Queen's Attack II
 - Problem - [https://www.hackerrank.com/challenges/queens-attack-2/problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)
-- Solution - [queens-attack-2.py](quees-attack-2.py]
+- Solution - [queens-attack-2.py](queens-attack-2.py)
