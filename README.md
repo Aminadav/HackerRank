@@ -13,3 +13,7 @@ Most of them are O(n) o(log n) or O(1).
 #### Encryption
 - Problem - [https://www.hackerrank.com/challenges/encryption/problem](https://www.hackerrank.com/challenges/encryption/problem)
 - Solution - [encryption.py](encryption.py)
+
+#### Queen's Attack II
+- Problem - [https://www.hackerrank.com/challenges/queens-attack-2/problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)
+- Solution - [queens-attack-2.py](quees-attack-2.py]
