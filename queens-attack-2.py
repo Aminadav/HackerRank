@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/queens-attack-2/problem
+# https://www.hackerrank.com/challenges/queens-attack-2/problem
 
 def queensAttack(n, k, Qy, Qx, obstacles):
         eat = [0] * 8
