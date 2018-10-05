@@ -9,3 +9,7 @@ Most of them are O(n) o(log n) or O(1).
 #### Organizing Containers of Balls
 - Problem - https://www.hackerrank.com/challenges/organizing-containers-of-balls/submissions/code/86847139)
 - Solution - [organizing-containers-of-balls.py](organizing-containers-of-balls.py)
+
+#### Encryption
+- Problem - [https://www.hackerrank.com/challenges/encryption/problem](https://www.hackerrank.com/challenges/encryption/problem)
+- Solution - [encryption.py](encryption.py)
