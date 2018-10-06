@@ -1,25 +1,25 @@
 # HackerRank
 
-My solutions to HackerRank chaalanges.
+My solutions to HackerRank challenges.
 
-Solution are in JavaScript, Python and Go.
+JavaScript, Python and Go.
 
 You can see my profile here: [https://www.hackerrank.com/AminadavG](https://www.hackerrank.com/AminadavG).
 
 All solution here created by me. I have tried to make the most optimal solutions. All of them are less than O(n^2).
 Most of them are O(n) / O(log n) or even O(1).
 
-Table of Content:
+**Table of Content:**
 
 - [Easy](#easy)
 - [Data Structure](#data-Structure)
-- [Data Structure - Array](#Array)
+- [Data Structure - Array](#array)
 - [Data Structure - Linked List](#linked-list)
 - [Data Structure - Doubly Linked List](#doubly-linked-list)
 - [Data Structure - Tree](#tree)
 
-- [Medium](#Medium)
-- [Hard](#Hard)
+- [Medium](#medium)
+- [Hard](#hard)
 
 ---
 
