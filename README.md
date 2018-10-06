@@ -272,6 +272,9 @@ Table of Content:
 
 - Problem - https://www.hackerrank.com/challenges/organizing-containers-of-balls/submissions/code/86847139
 
+#### Organizing Containers of Balls [Python]
+
+- Problem - https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
 - Solution - [organizing-containers-of-balls.py](organizing-containers-of-balls.py)
 
 #### Encryption [Python]
